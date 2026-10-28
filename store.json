@@ -1,0 +1,13 @@
+{
+  "games": [
+    {
+      "id": "cube3d",
+      "name": "3D Cube Demo",
+      "author": "Switched Studios",
+      "version": "1.0",
+      "size_mb": 0.064,
+      "download": "https://www.mediafire.com/file/0s3wtci2la5ry3f/3d_cube.zip/file",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Cube_3d_in_sharp_solid_style.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    }
+  ]
+}
