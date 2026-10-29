@@ -6,8 +6,19 @@
       "author": "Switched Studios",
       "version": "1.0",
       "size_mb": 0.064,
-      "download": "https://drive.google.com/drive/u/1/folders/1rEOvHRqpwOhtqYPHLB8IpgfTQhz6x7Jm",
-      "cover": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Cube_3d_in_sharp_solid_style.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+      "description": "A spinning textured cube made with g3d.",
+      "download": "https://www.mediafire.com/file/0s3wtci2la5ry3f/3d_cube.zip/file",
+      "cover": "https://raw.githubusercontent.com/cameracommanderofficial-dot/ss2-store/main/cube3d_cover.png"
+    },
+    {
+      "id": "newtonssandbox",
+      "name": "Newtons Sandbox",
+      "author": "Michalek",
+      "version": "1.0",
+      "size_mb": 0.05,
+      "description": "As if PhysEngine 2 wasnt enough, NEWTON'S SANDBOX LAUNCHED! Ported from the SS1 to the SS2.",
+      "download": "https://drive.google.com/drive/u/1/folders/17yvyYw1_qo6GLq_JuBi2gUfXpmltXK8d",
+      "cover": "https://raw.githubusercontent.com/cameracommanderofficial-dot/ss2-store/main/physengine2_cover.png"
     }
   ]
 }
